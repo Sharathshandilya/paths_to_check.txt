@@ -1,0 +1,8 @@
+http://places-service.lifafa.team/places-service-health
+http://universal-product-service.lifafa.team/ups-health
+http://store-midoffice-service.lifafa.team/order-service-health
+http://store-service.lifafa.team/store-service-health
+http://company-profile-service.lifafa.team/company-profile-service-health
+http://profile-service.lifafa.team/profile-service-health
+http://pes-gateway-service.lifafa.team/gateway/api/v1.0.0/razorpay/health-check
+http://message-management-service.lifafa.team/message-management-service-health
